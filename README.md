@@ -14,6 +14,7 @@
 ---
 
 ## Fork & PR 등록 안내
+> https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 
 - 조장님은 본 repo를 `fork` (우측 상단 메뉴) 하세요.
 - 개인 계정 하위로 `fork`한 repo에서
